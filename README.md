@@ -1,4 +1,3 @@
-align="right"/></a>
 <h1 align="center">Hi 👋, I'm Muhammet Emin Övüş</h1>
 <h3 align="center">I am a student at Yıldız Technical University</h3>
 
